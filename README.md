@@ -69,7 +69,7 @@ GALERIA-DE-FOTOS-MOD...
 
 1. **Clone o repositório:**
    ```bash
-   git clone 
+   git clone https://github.com/lays2/galeria-de-imagem-.git
 
 Instale as dependências:
 npm install
