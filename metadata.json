@@ -1,0 +1,5 @@
+{
+  "name": "Galeria de Fotos Moderna",
+  "description": "Uma galeria de fotos responsiva e interativa com busca em tempo real, construída com React e Tailwind CSS.",
+  "requestFramePermissions": []
+}
