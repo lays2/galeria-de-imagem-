@@ -42,8 +42,6 @@ O usuário pode pesquisar fotos pelo nome utilizando uma barra de busca, e as im
 
 ## 📁 Estrutura do Projeto
 
-## 📁 Estrutura do Projeto
-
 ```text
 GALERIA-DE-FOTOS-MOD...
 ├── components/
